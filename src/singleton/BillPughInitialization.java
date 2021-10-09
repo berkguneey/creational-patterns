@@ -2,7 +2,7 @@ package singleton;
 
 public class BillPughInitialization {
 
-	private BillPughInitialization() {
+	private BillPughInitialization() { 
 	}
 
 	private static class SingletonHelper {
